@@ -259,6 +259,8 @@ Post-synthesis power analysis at the typical corner (25°C, 1.8V):
 | Combinational | 202 µW         | 133 µW          | 335 µW      | 61.7% |
 | Total         | 346 µW         | 198 µW          | 544 µW      | 100%  |
 
+
+
 The bit-sparsity zero-skipping mechanism directly reduces the switching power component of the combinational logic by suppressing toggle activity in the multiplier output and accumulator input during sparse operations.
 
 **Tools Used**
