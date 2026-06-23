@@ -1,0 +1,19 @@
+Design Name: fp4_mac
+Run Directory: /openlane/designs/fp4_mac/runs/RUN_2026.06.20_17.59.01
+----------------------------------------
+
+Magic DRC Summary:
+Source: /openlane/designs/fp4_mac/runs/RUN_2026.06.20_17.59.01/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /openlane/designs/fp4_mac/runs/RUN_2026.06.20_17.59.01/logs/signoff/31-fp4_mac.lef.lvs.log
+Number of nets: 363                        |Number of nets: 363                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /openlane/designs/fp4_mac/runs/RUN_2026.06.20_17.59.01/logs/signoff/33-arc.log
+Pin violations: 0
+Net violations: 0
