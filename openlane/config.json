@@ -1,0 +1,15 @@
+{
+    "DESIGN_NAME": "fp4_mac",
+    "VERILOG_FILES": "dir::src/*.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10.0,
+    "PL_TARGET_DENSITY_PCT": 55,
+    "SYNTH_STRATEGY": "AREA 0",
+    "QUIT_ON_TIMING_VIOLATIONS": true,
+    "QUIT_ON_DRC_VIOLATIONS": true,
+    "RUN_SPEF_EXTRACTION": false,
+    "RUN_PARASITICS_STA": false,
+    "RUN_IRDROP_REPORT": false,
+    "RUN_GDS_MAGIC": false,
+    "GDS_STREAM_OUT": true
+}
